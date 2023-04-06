@@ -196,7 +196,7 @@ packages:
       path: "packages/extensions"
       ref: HEAD
       resolved-ref: "630da9da532c53ee13687b216c3b9b4ad11ca4dd"
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "0.2.4"
   fake_async:
@@ -261,7 +261,7 @@ packages:
       path: "packages/firebase_storage_service"
       ref: HEAD
       resolved-ref: "4d20f28e1375b63ca364c7519b2ff3b44dcec720"
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "0.3.0"
   firebase_storage_web:
@@ -479,7 +479,7 @@ packages:
       path: "packages/layout_builder"
       ref: HEAD
       resolved-ref: "630da9da532c53ee13687b216c3b9b4ad11ca4dd"
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "2.5.4"
   localization:
@@ -488,7 +488,7 @@ packages:
       path: "packages/localization"
       ref: HEAD
       resolved-ref: "630da9da532c53ee13687b216c3b9b4ad11ca4dd"
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "1.1.3"
   logging:
@@ -532,7 +532,7 @@ packages:
       path: "packages/modal_bottom_sheet"
       ref: HEAD
       resolved-ref: "630da9da532c53ee13687b216c3b9b4ad11ca4dd"
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "2.0.2-dev.3"
   numberpicker:

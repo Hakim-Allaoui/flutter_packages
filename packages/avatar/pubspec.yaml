@@ -13,12 +13,12 @@ dependencies:
     sdk: flutter
   extensions:
     git:
-      url: https://github.com/julienlebren/flutter_packages
+      url: https://github.com/Hakim-Allaoui/flutter_packages
       path: packages/extensions
     version: ^0.2.4
   layout_builder:
     git:
-      url: https://github.com/julienlebren/flutter_packages
+      url: https://github.com/Hakim-Allaoui/flutter_packages
       path: packages/layout_builder
     version: ^2.5.4
   cached_network_image: ^3.2.1 

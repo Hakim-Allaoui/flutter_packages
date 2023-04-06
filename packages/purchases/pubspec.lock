@@ -182,7 +182,7 @@ packages:
       path: "packages/extensions"
       ref: HEAD
       resolved-ref: ce551e6d7992f3384f5fcbcfb16bb7f29b7a2af6
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "0.2.0"
   fake_async:
@@ -358,7 +358,7 @@ packages:
       path: "packages/layout_builder"
       ref: HEAD
       resolved-ref: ce551e6d7992f3384f5fcbcfb16bb7f29b7a2af6
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "2.4.3"
   lints:
@@ -374,7 +374,7 @@ packages:
       path: "packages/localization"
       ref: HEAD
       resolved-ref: ce551e6d7992f3384f5fcbcfb16bb7f29b7a2af6
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "1.1.3"
   logging:
@@ -418,7 +418,7 @@ packages:
       path: "packages/modal_bottom_sheet"
       ref: HEAD
       resolved-ref: ce551e6d7992f3384f5fcbcfb16bb7f29b7a2af6
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "2.0.2-dev.3"
   numberpicker:
