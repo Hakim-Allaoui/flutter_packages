@@ -28,7 +28,7 @@ dependencies:
     version: ^0.6.0 
   layout_builder:
     git:
-      url: hhttps://github.com/Hakim-Allaoui/flutter_packages
+      url: https://github.com/Hakim-Allaoui/flutter_packages
       path: packages/layout_builder
     version: ^3.7.0
   localization:
