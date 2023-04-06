@@ -13,6 +13,7 @@ dependencies:
   extensions:
     git:
       url: https://github.com/Hakim-Allaoui/flutter_packages
+      ref: resolving-packages-version-for-boobooks
       path: packages/extensions
     version: ^0.2.0
   flutter_riverpod: ^1.0.0

@@ -14,11 +14,13 @@ dependencies:
   firebase_storage_service:
     git:
       url: https://github.com/Hakim-Allaoui/flutter_packages
+      ref: resolving-packages-version-for-boobooks
       path: packages/firebase_storage_service
     version: ^0.3.0
   layout_builder:
     git:
       url: https://github.com/Hakim-Allaoui/flutter_packages
+      ref: resolving-packages-version-for-boobooks
       path: packages/layout_builder
     version: ^2.5.4
   firebase_storage: ^10.2.16
