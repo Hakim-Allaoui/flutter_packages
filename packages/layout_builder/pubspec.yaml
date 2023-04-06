@@ -15,12 +15,12 @@ dependencies:
     sdk: flutter
   extensions:
     git:
-      url: https://github.com/julienlebren/flutter_packages
+      url: https://github.com/Hakim-Allaoui/flutter_packages
       path: packages/extensions
     version: ^0.7.0
   localization:
     git:
-      url: https://github.com/julienlebren/flutter_packages
+      url: https://github.com/Hakim-Allaoui/flutter_packages
       path: packages/localization
     version: ^1.4.0
   modal_bottom_sheet: ^2.0.2

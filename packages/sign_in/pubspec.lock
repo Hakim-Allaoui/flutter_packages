@@ -255,7 +255,7 @@ packages:
       path: "packages/extensions"
       ref: HEAD
       resolved-ref: "431b94edb226514f7d40186f0cf166f9c222ca33"
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "0.7.0"
   fake_async:
@@ -352,7 +352,7 @@ packages:
       path: "packages/firebase_storage_service"
       ref: HEAD
       resolved-ref: "58af98f94620da6cb28327b1806679720ccdeda9"
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "0.6.0"
   firebase_storage_web:
@@ -369,7 +369,7 @@ packages:
       path: "packages/firestore_service"
       ref: HEAD
       resolved-ref: "431b94edb226514f7d40186f0cf166f9c222ca33"
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "0.6.0"
   fixnum:
@@ -614,7 +614,7 @@ packages:
       path: "packages/layout_builder"
       ref: HEAD
       resolved-ref: "1e313d817c1b694b0b6b7ed4c48846e1944cd6ac"
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "3.6.4"
   lints:
@@ -631,7 +631,7 @@ packages:
       path: "packages/localization"
       ref: HEAD
       resolved-ref: "431b94edb226514f7d40186f0cf166f9c222ca33"
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "1.4.0"
   logging:

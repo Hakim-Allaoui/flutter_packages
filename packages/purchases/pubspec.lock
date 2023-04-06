@@ -199,7 +199,7 @@ packages:
       path: "packages/extensions"
       ref: HEAD
       resolved-ref: "5c4770c97387c56f292ca47a034c752c30871ee2"
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "0.7.0"
   fake_async:
@@ -420,7 +420,7 @@ packages:
       path: "packages/layout_builder"
       ref: HEAD
       resolved-ref: f4b62de052b77842b8fa4f8f5e65736bdbd48aca
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "3.6.0-dev.1"
   lints:
@@ -437,7 +437,7 @@ packages:
       path: "packages/localization"
       ref: HEAD
       resolved-ref: "5c4770c97387c56f292ca47a034c752c30871ee2"
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "1.4.0"
   logging:

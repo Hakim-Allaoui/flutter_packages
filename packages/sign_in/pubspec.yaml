@@ -13,17 +13,17 @@ dependencies:
     sdk: flutter
   extensions:
     git:
-      url: https://github.com/julienlebren/flutter_packages
+      url: https://github.com/Hakim-Allaoui/flutter_packages
       path: packages/extensions
     version: ^0.7.0
   firestore_service:
     git: 
-      url: https://github.com/julienlebren/flutter_packages
+      url: https://github.com/Hakim-Allaoui/flutter_packages
       path: packages/firestore_service
     version: ^0.6.0
   firebase_storage_service:
     git:
-      url: https://github.com/julienlebren/flutter_packages
+      url: https://github.com/Hakim-Allaoui/flutter_packages
       path: packages/firebase_storage_service 
     version: ^0.6.0 
   layout_builder:
@@ -33,7 +33,7 @@ dependencies:
     version: ^3.7.0
   localization:
     git:
-      url: https://github.com/julienlebren/flutter_packages
+      url: https://github.com/Hakim-Allaoui/flutter_packages
       path: packages/localization
     version: ^1.4.0
   cloud_functions: ^4.0.5

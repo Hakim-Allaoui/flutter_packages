@@ -13,12 +13,12 @@ dependencies:
     sdk: flutter
   firebase_storage_service:
     git:
-      url: https://github.com/julienlebren/flutter_packages
+      url: https://github.com/Hakim-Allaoui/flutter_packages
       path: packages/firebase_storage_service
     version: ^0.6.0
   layout_builder:
     git:
-      url: https://github.com/julienlebren/flutter_packages
+      url: https://github.com/Hakim-Allaoui/flutter_packages
       path: packages/layout_builder
     version: ^3.7.0
   firebase_storage: ^11.1.0

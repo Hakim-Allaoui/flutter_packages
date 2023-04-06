@@ -199,7 +199,7 @@ packages:
       path: "packages/extensions"
       ref: HEAD
       resolved-ref: "0fa67b95dfb83cd5ca9160c16745fdd5e270fa6e"
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "0.7.0"
   fake_async:
@@ -415,7 +415,7 @@ packages:
       path: "packages/localization"
       ref: HEAD
       resolved-ref: "0fa67b95dfb83cd5ca9160c16745fdd5e270fa6e"
-      url: "https://github.com/julienlebren/flutter_packages"
+      url: "https://github.com/Hakim-Allaoui/flutter_packages"
     source: git
     version: "1.4.0"
   logging:
