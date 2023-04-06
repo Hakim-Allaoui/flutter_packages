@@ -20,7 +20,7 @@ dependencies:
     git:
       url: https://github.com/Hakim-Allaoui/flutter_packages
       path: packages/layout_builder
-    version: ^2.5.4
+    version: ^3.7.0
   cached_network_image: ^3.2.1 
    
 dev_dependencies:
